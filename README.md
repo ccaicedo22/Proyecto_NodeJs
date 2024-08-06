@@ -18,12 +18,13 @@ Este proyecto, desarrollado durante el bootcamp, es una aplicación web que perm
 
 ## Tecnologías Utilizadas
 
-- **Node.js** ![Node.js Logo](https://nodejs.org/static/images/logo.svg): Entorno de ejecución de JavaScript en el servidor.
-- **Express.js** ![Express.js Logo](https://expressjs.com/images/express-facebook-share.png): Framework para construir aplicaciones web en Node.js.
-- **MongoDB** ![MongoDB Logo](https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png): Base de datos NoSQL utilizada para la gestión de datos.
-- **Mongoose** ![Mongoose Logo](https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png): Biblioteca para modelar datos en MongoDB con Node.js.
-- **JWT (JSON Web Tokens)** ![JWT Logo](https://jwt.io/img/logo.svg): Para autenticación de usuarios.
-- **Express Validator** ![Express Validator Logo](https://repository-images.githubusercontent.com/2518028/adb2df00-9431-11e9-9ccd-26f012b80f29): Para la validación de datos en el servidor.
+- **Node.js** <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="50"/>: Entorno de ejecución de JavaScript en el servidor.
+- **Express.js** <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js Logo" width="50"/>: Framework para construir aplicaciones web en Node.js.
+- **MongoDB** <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="MongoDB Logo" width="50"/>: Base de datos NoSQL utilizada para la gestión de datos.
+- **Mongoose** <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose Logo" width="50"/>: Biblioteca para modelar datos en MongoDB con Node.js.
+- **JWT (JSON Web Tokens)** <img src="https://jwt.io/img/logo.svg" alt="JWT Logo" width="50"/>: Para autenticación de usuarios.
+- **Express Validator** <img src="https://repository-images.githubusercontent.com/2518028/adb2df00-9431-11e9-9ccd-26f012b80f29" alt="Express Validator Logo" width="50"/>: Para la validación de datos en el servidor.
+
 
 ---
 
