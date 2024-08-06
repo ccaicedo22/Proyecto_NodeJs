@@ -1,4 +1,4 @@
-# ![Node.js Logo](https://nodejs.org/static/images/logo.svg) Proyecto Sistema de Gestión de Eventos
+#  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="200"/> Proyecto Sistema de Gestión de Eventos
 
 ## Descripción
 
