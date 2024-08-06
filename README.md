@@ -233,4 +233,5 @@ Descripción: Obtiene la lista de todos los usuarios registrados en el sistema.
 
 Puedes utilizar la siguiente colección de Postman para validar la documentación de la API del proyecto, así como para interactuar con los endpoints utilizados.
 
-[Ver Documentación API](https://documenter.getpostman.com/view/28758682/2sA3rxqtLi)
+<a href="https://documenter.getpostman.com/view/28758682/2sA3rxqtLi" target="_blank">Ver Documentación API</a>
+
